@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Vikash Singh
+#⚡ Vikash Singh
 
 <p>Insert Text</p>
 

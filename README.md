@@ -1,6 +1,5 @@
 # ⚡ Vikash Singh
 
-### 📍 UK, Bristol
 ### Software Developer
 
 <p>🏞 My journey into the world of software development began in August 2022. From engaging videos to insightful articles and inspiring discussions with peers and mentors, I discovered my passion for coding and problem-solving.</p>

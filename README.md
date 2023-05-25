@@ -7,3 +7,7 @@
 <p>Ever since I have been self-learning by using resources like tutorials and platforms such as freeCodeCamp ⛺, YouTube ▶️ and Stack Overflow 📚. Through this process, I've built various projects that continuously expand my knowledge and skills as a software developer.</p>
 
 ---
+
+--
+
+-
